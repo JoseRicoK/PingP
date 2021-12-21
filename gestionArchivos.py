@@ -1,2 +1,0 @@
-pass
-print('Hola Jose')
