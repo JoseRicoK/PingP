@@ -1,2 +1,2 @@
-jositomac:CONTRASEÑA:0rr0y:MAIL:josemariark@gmail.com:
-gaboss:CONTRASEÑA:stepbystep:MAIL:gaboss@gmail.com:
+jose:CONTRASEÑA:123456:MAIL:jose@gmail.com:PARTIDAS JUGADAS:10:PARTIDAS GANADAS:6:PAERTIDAS PERDIDAS:4:
+gaboss:CONTRASEÑA:tumama:MAIL:gabo@gmail.com:PARTIDAS JUGADAS:8:PARTIDAS GANADAS:3:PAERTIDAS PERDIDAS:5:
