@@ -11,9 +11,9 @@ while True:
     time.sleep(.5)
     opcion = input('\nQue desea hacer: ')
     if opcion == '1' or opcion == 'Iniciar sesion':
-        Funciones.login()
-        Funciones.main()
+        usuario = Funciones.login()
+        Funciones.main(usuario)
     elif opcion == '2' or opcion == 'Registro':
         Funciones.registro()
     elif opcion == '3' or opcion == 'Juego libre':
-        pass
+        Funciones.marcador0()
