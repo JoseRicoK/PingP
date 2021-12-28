@@ -1,1 +1,2 @@
-losChupis:CONTRASEÑA:orroy
+immune:CONTRASEÑA:098765
+ibiza:CONTRASEÑA:123456789
